@@ -1,6 +1,6 @@
 const Footer = () => (
   <div className="bg-darkblue flex bottom-0 h-30 z-10">
-    <div className="mx-4 md:mx-[5%] lg:mx-[12%] w-full flex content-center justify-between my-8">
+    <div className="mx-4 md:mx-[5%] lg:mx-[10%] w-full flex content-center justify-between my-8">
       <div className="mt-[14px]">
         <svg width="112" height="29" xmlns="http://www.w3.org/2000/svg">
           <g fill="#FFF">

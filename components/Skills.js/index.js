@@ -34,7 +34,7 @@ const skills = [
 ]
 
 const Skills = () => (
-  <div className="px-4 md:px-[5%] lg:px-[12%] bg-gradient-to-b from-[#FFF] to-[#F0F1FF] grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-x-8 gap-y-[80px] max-md:gap-y-[40px] sm:pt-6 pb-[140px] ">
+  <div className="px-4 md:px-[5%] lg:px-[10%] bg-gradient-to-b from-[#FFF] to-[#F0F1FF] grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-x-8 gap-y-[80px] max-md:gap-y-[40px] sm:pt-6 pb-[140px] ">
     <div className="rounded-2xl bg-gradient-to-b from-orange to-red md:text-headingM text-headingS font-extrabold text-[#FFF] pt-6 md:pt-16 md:px-8 px-7 max-md:pb-8 ">
       Check out our most popular courses!
     </div>

@@ -2,7 +2,7 @@ import useMatchMedia from 'react-use-match-media'
 
 const Header = () => {
   return (
-    <header className="mx-4 md:mx-[5%] lg:mx-[12%] flex place-content-between mt-[24px] z-50">
+    <header className="mx-4 md:mx-[5%] lg:mx-[10%] flex place-content-between mt-[24px] z-50">
       <div className="mt-[14px]">
         <svg width="112" height="29" xmlns="http://www.w3.org/2000/svg">
           <g fill="#13183F">
