@@ -1,5 +1,3 @@
-import useMatchMedia from 'react-use-match-media'
-
 const Header = () => {
   return (
     <header className="mx-4 md:mx-[5%] lg:mx-[10%] flex place-content-between mt-[24px] z-50">
