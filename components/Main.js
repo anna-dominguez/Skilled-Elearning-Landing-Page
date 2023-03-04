@@ -6,7 +6,7 @@ import HeroMobile from '../public/images/image-hero-mobile.png'
 
 const Main = () => (
   <main>
-    <div className="mx-4 md:mx-[5%] lg:mx-[15%] mt-10 md:mt-24 lg:mt-44 mb-16 md:mb-48 lg:mb-56 z-50">
+    <div className="mx-4 md:mx-[5%] lg:mx-[12%] mt-10 md:mt-24 lg:mt-44 mb-16 md:mb-48 lg:mb-56 z-50">
       <div className="w-full lg:w-[50%] md:w-[60%] z-50">
         <div className="text-headingL lg:text-headingXL font-extrabold z-50">
           Maximize skill, minimize budget
